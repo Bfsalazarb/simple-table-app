@@ -8,7 +8,6 @@
 
 import Foundation
 
-
 struct Petition: Codable {
     var title: String
     var description: String
