@@ -1,6 +1,6 @@
 # simple-table-app
 
-IOS app on Swift 4.0 using UIKit. Uses an API to poblate UITable with information. 
+IOS app using Swift 4.0 and UIKit. Uses an API to poblate UITable with information. 
 
 Some Features:
 - The table cells shows the full title of the object, part of the description, and an image preview if available
